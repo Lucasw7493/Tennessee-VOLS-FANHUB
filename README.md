@@ -12,8 +12,8 @@ A central hub for fans of the Tennessee Volunteers featuring news, merchandise, 
 2. Integrate a real-time chat feature.
 3. focus on all sports.
 
-## Hosting Link
-[GitHub Pages Link](https://github.com/Lucasw7493)
+## Live Link
+[GitHub Pages Link](https://lucasw7493.github.io/Tennessee-Vols-Fanhub/index.html)
 
 ## User Stories
 
