@@ -51,10 +51,11 @@ header {
 }
 
 /* Carousel Enhancements */
-.carousel-item img {
-  max-height: 600px;
-  object-fit: cover;
-  width: 100%;
+
+  .carousel-inner  {
+  max-height:600px;
+  object-fit: scale-down;
+  width: 90%;
 }
 
 .carousel-caption {
