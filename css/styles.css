@@ -52,10 +52,11 @@ header {
 
 /* Carousel Enhancements */
 
-.carousel-item img {
-  max-height: 600px;
-  object-fit: cover;
+.carousel-container img {
+  max-height:200px;
+  object-fit: contain;
   width: 100%;
+}
 
 .carousel-caption {
   background: rgba(0, 0, 0, 0.5);
