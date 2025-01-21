@@ -20,6 +20,12 @@ header {
   border-radius: 3px;
 }
 
+}
+.nav-link.active, .nav-link{
+  margin-left: 100px;
+}
+
+
 .navbar-brand {
   display: flex;
   align-items: center; 
